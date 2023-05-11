@@ -1,6 +1,6 @@
 # Proyecto: Estación de subte
 
-![](https://hackmd.io/_uploads/rJpAIe9Vn.png)
+![](https://github.com/lucafamozo/Dojo_Dos_Subte/blob/master/img/Dojo_dos_subte.png)
 
 ## Integrantes:
 * Antuñez, Juan Ignacio.
