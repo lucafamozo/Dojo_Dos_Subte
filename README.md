@@ -67,4 +67,4 @@ void sonar_buzzer()
 }
 ```
 # :heavy_dollar_sign:Link al proyecto
-[Proyecto]([https://www.tinkercad.com/things/aSdIPMVB60v-surprising-bojo/editel?sharecode=UD0_WN5zAG60WaeNaoJWpNlerdzhhk2zKq6qNaNymdk](https://www.tinkercad.com/things/aSdIPMVB60v))
+[Proyecto](https://www.tinkercad.com/things/aSdIPMVB60v)
